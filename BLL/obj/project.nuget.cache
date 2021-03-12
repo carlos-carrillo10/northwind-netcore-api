@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "P6wzdMsIYuFb5UJo5kgxRa2m1+1+k8Ph4ta2Qcf9T05uxJIoMoK/vnka9t9KwTPMEaYcEpgObuPQgN5A4XB7LQ==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub Repositories\\Northwind-NetCore-API\\BLL\\BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

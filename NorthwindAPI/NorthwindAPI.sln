@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindAPI", "NorthwindAPI.csproj", "{A429CB73-FBE1-4FE7-9F48-69D830E108F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NorthwindAPI", "NorthwindAPI.csproj", "{A429CB73-FBE1-4FE7-9F48-69D830E108F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", "{E8DBCDD5-3109-40EA-A709-6AD68BAC32FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "..\BLL\BLL.csproj", "{EDAC0D45-8BFF-442F-91D3-AF94C6D5BF04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{A429CB73-FBE1-4FE7-9F48-69D830E108F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A429CB73-FBE1-4FE7-9F48-69D830E108F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A429CB73-FBE1-4FE7-9F48-69D830E108F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8DBCDD5-3109-40EA-A709-6AD68BAC32FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8DBCDD5-3109-40EA-A709-6AD68BAC32FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8DBCDD5-3109-40EA-A709-6AD68BAC32FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8DBCDD5-3109-40EA-A709-6AD68BAC32FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDAC0D45-8BFF-442F-91D3-AF94C6D5BF04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAC0D45-8BFF-442F-91D3-AF94C6D5BF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAC0D45-8BFF-442F-91D3-AF94C6D5BF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAC0D45-8BFF-442F-91D3-AF94C6D5BF04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
