@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/ffeC4RBMfXXVX9wwjjY6a67xmgKRXq86sASI89phKsbfC/Kg9dvAO9wxZuSdpQn7Mf2IUsbeMiTsJw/Op2yLw==",
+  "dgSpecHash": "LDZV2/uuDbAoPf3MI2VBe/b8DSDGLmiZBMSk0W544wZw+SZjOT+SB34GsO93VDvR+zWe7DTD5IrkSut6SFfIXg==",
   "success": true,
   "projectFilePath": "D:\\GitHub Repositories\\Northwind-NetCore-API\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
