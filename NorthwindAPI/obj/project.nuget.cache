@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "P9X2VD00yGgiLqx6OlY5zm3SEuOyDlMPZ4/90JaZTjLuzMP/TxYEbCWNYVyWgSBEm2/Gy7mILmpqML245lvIMw==",
+  "dgSpecHash": "jLlZKWjIY79s2RmhpLpK2myphgvQO4BjeqSgQDQambKWGJFtgGcNOi3u8/XP2tHrgh8va+T+v1NzPgkgzbO0CA==",
   "success": true,
   "projectFilePath": "D:\\GitHub Repositories\\Northwind-NetCore-API\\NorthwindAPI\\NorthwindAPI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rodri\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
