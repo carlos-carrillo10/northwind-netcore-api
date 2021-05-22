@@ -1,10 +1,10 @@
 # Northwind-NetCore-API
 
-###Entities
+### Entities
 Some entities codes were taken from [https://github.com/tschettler/Models.Northwind/tree/master/Models.Northwind/Entities](https://github.com/tschettler/Models.Northwind/tree/master/Models.Northwind/Entities)
 
 
-###Project's Architecture
+### Project's Architecture
 I use Clean Architecture, here the reference:
 [https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures)
 
