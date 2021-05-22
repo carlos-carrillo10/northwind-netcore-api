@@ -1,20 +1,153 @@
-D:\GitHub Repositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\GitHub Repositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\appsettings.json
-D:\GitHub Repositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\NorthwindAPI.exe
-D:\GitHub Repositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\NorthwindAPI.deps.json
-D:\GitHub Repositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\NorthwindAPI.runtimeconfig.json
-D:\GitHub Repositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\NorthwindAPI.runtimeconfig.dev.json
-D:\GitHub Repositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\NorthwindAPI.dll
-D:\GitHub Repositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\NorthwindAPI.pdb
-D:\GitHub Repositories\Northwind-NetCore-API\NorthwindAPI\obj\Debug\netcoreapp3.1\NorthwindAPI.csprojAssemblyReference.cache
-D:\GitHub Repositories\Northwind-NetCore-API\NorthwindAPI\obj\Debug\netcoreapp3.1\NorthwindAPI.AssemblyInfoInputs.cache
-D:\GitHub Repositories\Northwind-NetCore-API\NorthwindAPI\obj\Debug\netcoreapp3.1\NorthwindAPI.AssemblyInfo.cs
-D:\GitHub Repositories\Northwind-NetCore-API\NorthwindAPI\obj\Debug\netcoreapp3.1\NorthwindAPI.csproj.CoreCompileInputs.cache
-D:\GitHub Repositories\Northwind-NetCore-API\NorthwindAPI\obj\Debug\netcoreapp3.1\NorthwindAPI.MvcApplicationPartsAssemblyInfo.cache
-D:\GitHub Repositories\Northwind-NetCore-API\NorthwindAPI\obj\Debug\netcoreapp3.1\staticwebassets\NorthwindAPI.StaticWebAssets.Manifest.cache
-D:\GitHub Repositories\Northwind-NetCore-API\NorthwindAPI\obj\Debug\netcoreapp3.1\staticwebassets\NorthwindAPI.StaticWebAssets.xml
-D:\GitHub Repositories\Northwind-NetCore-API\NorthwindAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\NorthwindAPI.styles.css
-D:\GitHub Repositories\Northwind-NetCore-API\NorthwindAPI\obj\Debug\netcoreapp3.1\NorthwindAPI.RazorTargetAssemblyInfo.cache
-D:\GitHub Repositories\Northwind-NetCore-API\NorthwindAPI\obj\Debug\netcoreapp3.1\NorthwindAPI.dll
-D:\GitHub Repositories\Northwind-NetCore-API\NorthwindAPI\obj\Debug\netcoreapp3.1\NorthwindAPI.pdb
-D:\GitHub Repositories\Northwind-NetCore-API\NorthwindAPI\obj\Debug\netcoreapp3.1\NorthwindAPI.genruntimeconfig.cache
+D:/GitHub Repositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/GitHub Repositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/appsettings.json
+D:/GitHub Repositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/NorthwindAPI.exe
+D:/GitHub Repositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/NorthwindAPI.deps.json
+D:/GitHub Repositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/NorthwindAPI.runtimeconfig.json
+D:/GitHub Repositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/NorthwindAPI.runtimeconfig.dev.json
+D:/GitHub Repositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/NorthwindAPI.dll
+D:/GitHub Repositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/NorthwindAPI.pdb
+D:/GitHub Repositories/Northwind-NetCore-API/NorthwindAPI/obj/Debug/netcoreapp3.1/NorthwindAPI.csprojAssemblyReference.cache
+D:/GitHub Repositories/Northwind-NetCore-API/NorthwindAPI/obj/Debug/netcoreapp3.1/NorthwindAPI.AssemblyInfoInputs.cache
+D:/GitHub Repositories/Northwind-NetCore-API/NorthwindAPI/obj/Debug/netcoreapp3.1/NorthwindAPI.AssemblyInfo.cs
+D:/GitHub Repositories/Northwind-NetCore-API/NorthwindAPI/obj/Debug/netcoreapp3.1/NorthwindAPI.csproj.CoreCompileInputs.cache
+D:/GitHub Repositories/Northwind-NetCore-API/NorthwindAPI/obj/Debug/netcoreapp3.1/NorthwindAPI.MvcApplicationPartsAssemblyInfo.cache
+D:/GitHub Repositories/Northwind-NetCore-API/NorthwindAPI/obj/Debug/netcoreapp3.1/staticwebassets/NorthwindAPI.StaticWebAssets.Manifest.cache
+D:/GitHub Repositories/Northwind-NetCore-API/NorthwindAPI/obj/Debug/netcoreapp3.1/staticwebassets/NorthwindAPI.StaticWebAssets.xml
+D:/GitHub Repositories/Northwind-NetCore-API/NorthwindAPI/obj/Debug/netcoreapp3.1/scopedcss/bundle/NorthwindAPI.styles.css
+D:/GitHub Repositories/Northwind-NetCore-API/NorthwindAPI/obj/Debug/netcoreapp3.1/NorthwindAPI.RazorTargetAssemblyInfo.cache
+D:/GitHub Repositories/Northwind-NetCore-API/NorthwindAPI/obj/Debug/netcoreapp3.1/NorthwindAPI.dll
+D:/GitHub Repositories/Northwind-NetCore-API/NorthwindAPI/obj/Debug/netcoreapp3.1/NorthwindAPI.pdb
+D:/GitHub Repositories/Northwind-NetCore-API/NorthwindAPI/obj/Debug/netcoreapp3.1/NorthwindAPI.genruntimeconfig.cache
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/appsettings.json
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/NorthwindAPI.deps.json
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/NorthwindAPI.runtimeconfig.json
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/NorthwindAPI.runtimeconfig.dev.json
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/NorthwindAPI.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/NorthwindAPI.pdb
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/BLL.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/DAL.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/Helpers.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/BLL.pdb
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/DAL.pdb
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/bin/Debug/netcoreapp3.1/Helpers.pdb
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/obj/Debug/netcoreapp3.1/NorthwindAPI.csprojAssemblyReference.cache
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/obj/Debug/netcoreapp3.1/NorthwindAPI.AssemblyInfoInputs.cache
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/obj/Debug/netcoreapp3.1/NorthwindAPI.AssemblyInfo.cs
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/obj/Debug/netcoreapp3.1/NorthwindAPI.csproj.CoreCompileInputs.cache
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/obj/Debug/netcoreapp3.1/NorthwindAPI.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/obj/Debug/netcoreapp3.1/staticwebassets/NorthwindAPI.StaticWebAssets.Manifest.cache
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/obj/Debug/netcoreapp3.1/staticwebassets/NorthwindAPI.StaticWebAssets.xml
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/obj/Debug/netcoreapp3.1/scopedcss/bundle/NorthwindAPI.styles.css
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/obj/Debug/netcoreapp3.1/NorthwindAPI.RazorTargetAssemblyInfo.cache
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/obj/Debug/netcoreapp3.1/NorthwindAPI.csproj.CopyComplete
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/obj/Debug/netcoreapp3.1/NorthwindAPI.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/obj/Debug/netcoreapp3.1/NorthwindAPI.pdb
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/obj/Debug/netcoreapp3.1/NorthwindAPI.genruntimeconfig.cache
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\NorthwindAPI.exe
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\NorthwindAPI.deps.json
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\NorthwindAPI.runtimeconfig.json
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\NorthwindAPI.runtimeconfig.dev.json
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\NorthwindAPI.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\NorthwindAPI.pdb
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\BLL.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\DAL.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\Helpers.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\bin\Debug\netcoreapp3.1\Helpers.pdb
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\obj\Debug\netcoreapp3.1\NorthwindAPI.csprojAssemblyReference.cache
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\obj\Debug\netcoreapp3.1\NorthwindAPI.AssemblyInfoInputs.cache
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\obj\Debug\netcoreapp3.1\NorthwindAPI.AssemblyInfo.cs
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\obj\Debug\netcoreapp3.1\NorthwindAPI.csproj.CoreCompileInputs.cache
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\obj\Debug\netcoreapp3.1\NorthwindAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\obj\Debug\netcoreapp3.1\staticwebassets\NorthwindAPI.StaticWebAssets.Manifest.cache
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\obj\Debug\netcoreapp3.1\staticwebassets\NorthwindAPI.StaticWebAssets.xml
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\NorthwindAPI.styles.css
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\obj\Debug\netcoreapp3.1\NorthwindAPI.RazorTargetAssemblyInfo.cache
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\obj\Debug\netcoreapp3.1\NorthwindAPI.csproj.CopyComplete
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\obj\Debug\netcoreapp3.1\NorthwindAPI.dll
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\obj\Debug\netcoreapp3.1\NorthwindAPI.pdb
+D:\GithubRepositories\Northwind-NetCore-API\NorthwindAPI\obj\Debug\netcoreapp3.1\NorthwindAPI.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+D:/GithubRepositories/Northwind-NetCore-API/DAL/bin/Debug/netstandard2.1/DAL.deps.json
+D:/GithubRepositories/Northwind-NetCore-API/DAL/bin/Debug/netstandard2.1/DAL.dll
+D:/GithubRepositories/Northwind-NetCore-API/DAL/bin/Debug/netstandard2.1/DAL.pdb
+D:/GithubRepositories/Northwind-NetCore-API/DAL/obj/Debug/netstandard2.1/DAL.csprojAssemblyReference.cache
+D:/GithubRepositories/Northwind-NetCore-API/DAL/obj/Debug/netstandard2.1/DAL.AssemblyInfoInputs.cache
+D:/GithubRepositories/Northwind-NetCore-API/DAL/obj/Debug/netstandard2.1/DAL.AssemblyInfo.cs
+D:/GithubRepositories/Northwind-NetCore-API/DAL/obj/Debug/netstandard2.1/DAL.csproj.CoreCompileInputs.cache
+D:/GithubRepositories/Northwind-NetCore-API/DAL/obj/Debug/netstandard2.1/DAL.dll
+D:/GithubRepositories/Northwind-NetCore-API/DAL/obj/Debug/netstandard2.1/DAL.pdb
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/DAL/bin/Debug/netstandard2.1/DAL.deps.json
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/DAL/bin/Debug/netstandard2.1/DAL.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/DAL/bin/Debug/netstandard2.1/DAL.pdb
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/DAL/obj/Debug/netstandard2.1/DAL.AssemblyInfoInputs.cache
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/DAL/obj/Debug/netstandard2.1/DAL.AssemblyInfo.cs
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/DAL/obj/Debug/netstandard2.1/DAL.csproj.CoreCompileInputs.cache
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/DAL/obj/Debug/netstandard2.1/DAL.dll
+/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/DAL/obj/Debug/netstandard2.1/DAL.pdb

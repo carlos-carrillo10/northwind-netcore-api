@@ -1,18 +1,54 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
 namespace DAL.Models
 {
-    public class OrderDetails
+    /// <summary>
+    /// The order detail.
+    /// </summary>
+    [Table("Order Details")]
+    public partial class OrderDetails
     {
-        [Key]
+        /// <summary>
+        /// Gets or sets the order id.
+        /// </summary>
+        [Key, Column(Order = 0)]
+        [DatabaseGenerated(DatabaseGeneratedOption.None)]
         public int OrderID { get; set; }
+
+        /// <summary>
+        /// Gets or sets the product id.
+        /// </summary>
+        [Key, Column(Order = 1)]
+        [DatabaseGenerated(DatabaseGeneratedOption.None)]
         public int ProductID { get; set; }
-        public virtual ICollection<Products> Products { get; set; }
+
+        /// <summary>
+        /// Gets or sets the unit price.
+        /// </summary>
         public decimal UnitPrice { get; set; }
-        public int Quantity { get; set; }
-        public Single Discount { get; set; }
+
+        /// <summary>
+        /// Gets or sets the quantity.
+        /// </summary>
+        public short Quantity { get; set; }
+
+        /// <summary>
+        /// Gets or sets the discount.
+        /// </summary>
+        public float Discount { get; set; }
+
+        /// <summary>
+        /// Gets or sets the order.
+        /// </summary>
+        public virtual Orders Order { get; set; }
+
+        /// <summary>
+        /// Gets or sets the product.
+        /// </summary>
+        public virtual Products Product { get; set; }
     }
 }

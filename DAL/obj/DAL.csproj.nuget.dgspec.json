@@ -1,37 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub Repositories\\Northwind-NetCore-API\\DAL\\DAL.csproj": {}
+    "/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/DAL/DAL.csproj": {}
   },
   "projects": {
-    "D:\\GitHub Repositories\\Northwind-NetCore-API\\DAL\\DAL.csproj": {
+    "/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/DAL/DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub Repositories\\Northwind-NetCore-API\\DAL\\DAL.csproj",
+        "projectUniqueName": "/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/DAL/DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "D:\\GitHub Repositories\\Northwind-NetCore-API\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub Repositories\\Northwind-NetCore-API\\DAL\\obj\\",
+        "projectPath": "/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/DAL/DAL.csproj",
+        "packagesPath": "/Users/carloscarrillo/.nuget/packages/",
+        "outputPath": "/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/DAL/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/carloscarrillo/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "netstandard2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
-            "targetAlias": "netstandard2.0",
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {}
           }
         },
@@ -42,14 +35,28 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
-          "targetAlias": "netstandard2.0",
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "dependencies": {
-            "NETStandard.Library": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.0.3, )",
-              "autoReferenced": true
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
             },
             "System.ComponentModel.Annotations": {
               "target": "Package",
@@ -66,7 +73,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
         }
       }
     }

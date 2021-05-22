@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NorthwindAPI", "NorthwindAPI.csproj", "{A429CB73-FBE1-4FE7-9F48-69D830E108F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", "{E8DBCDD5-3109-40EA-A709-6AD68BAC32FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "..\DAL\DAL.csproj", "{E8DBCDD5-3109-40EA-A709-6AD68BAC32FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "..\BLL\BLL.csproj", "{EDAC0D45-8BFF-442F-91D3-AF94C6D5BF04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLL", "..\BLL\BLL.csproj", "{EDAC0D45-8BFF-442F-91D3-AF94C6D5BF04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "..\Helpers\Helpers.csproj", "{95843FD9-A2D4-4575-9884-9B8CA6E573CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{EDAC0D45-8BFF-442F-91D3-AF94C6D5BF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDAC0D45-8BFF-442F-91D3-AF94C6D5BF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDAC0D45-8BFF-442F-91D3-AF94C6D5BF04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95843FD9-A2D4-4575-9884-9B8CA6E573CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95843FD9-A2D4-4575-9884-9B8CA6E573CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95843FD9-A2D4-4575-9884-9B8CA6E573CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95843FD9-A2D4-4575-9884-9B8CA6E573CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,26 +6,109 @@ using System.Text;
 
 namespace DAL.Models
 {
-    public class Orders
+    /// <summary>
+    /// The order.
+    /// </summary>
+    [Table("Orders")]
+    public partial class Orders
     {
+        /// <summary>
+        /// Gets or sets the order id.
+        /// </summary>
         [Key]
         public int OrderID { get; set; }
+
+        /// <summary>
+        /// Gets or sets the customer id.
+        /// </summary>
+        [StringLength(5, MinimumLength = 5)]
         public string CustomerID { get; set; }
-        public virtual ICollection<Customers> Customers{ get; set; }
-        public int EmployeeID { get; set; }
-        public virtual ICollection<Employees> Employees { get; set; }
-        public DateTime OrderDate { get; set; }
-        public DateTime RequiredDate { get; set; }
-        public DateTime ShippedDate { get; set; }
-        [ForeignKey("Shippers")]
-        public int ShipVia { get; set; }
-        public virtual ICollection<Shippers> Shippers { get; set; }
-        public Decimal Freight { get; set; }
+
+        /// <summary>
+        /// Gets or sets the employee id.
+        /// </summary>
+        public int? EmployeeID { get; set; }
+
+        /// <summary>
+        /// Gets or sets the order date.
+        /// </summary>
+        public DateTime? OrderDate { get; set; }
+
+        /// <summary>
+        /// Gets or sets the required date.
+        /// </summary>
+        public DateTime? RequiredDate { get; set; }
+
+        /// <summary>
+        /// Gets or sets the shipped date.
+        /// </summary>
+        public DateTime? ShippedDate { get; set; }
+
+        /// <summary>
+        /// Gets or sets the shipper id.
+        /// </summary>
+        [Column("ShipVia")]
+        public int? ShipperID { get; set; }
+
+        /// <summary>
+        /// Gets or sets the freight.
+        /// </summary>
+        public decimal? Freight { get; set; }
+
+        /// <summary>
+        /// Gets or sets the ship name.
+        /// </summary>
+        [StringLength(40)]
         public string ShipName { get; set; }
+
+        /// <summary>
+        /// Gets or sets the ship address.
+        /// </summary>
+        [StringLength(60)]
         public string ShipAddress { get; set; }
+
+        /// <summary>
+        /// Gets or sets the ship city.
+        /// </summary>
+        [StringLength(15)]
         public string ShipCity { get; set; }
+
+        /// <summary>
+        /// Gets or sets the ship region.
+        /// </summary>
+        [StringLength(15)]
         public string ShipRegion { get; set; }
+
+        /// <summary>
+        /// Gets or sets the ship postal code.
+        /// </summary>
+        [StringLength(10)]
         public string ShipPostalCode { get; set; }
+
+        /// <summary>
+        /// Gets or sets the ship country.
+        /// </summary>
+        [StringLength(15)]
         public string ShipCountry { get; set; }
+
+        /// <summary>
+        /// Gets or sets the customer.
+        /// </summary>
+        public virtual Customers Customer { get; set; }
+
+        /// <summary>
+        /// Gets or sets the employee.
+        /// </summary>
+        public virtual Employees Employee { get; set; }
+
+        /// <summary>
+        /// Gets or sets the shipper.
+        /// </summary>
+        public virtual Shippers Shipper { get; set; }
+
+        /// <summary>
+        /// Gets or sets the order details.
+        /// </summary>
+        public virtual ICollection<OrderDetails> OrderDetails { get; set; }
     }
 }
