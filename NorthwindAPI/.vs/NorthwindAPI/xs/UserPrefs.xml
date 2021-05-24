@@ -1,26 +1,15 @@
 ﻿<Properties StartupConfiguration="{A429CB73-FBE1-4FE7-9F48-69D830E108F7}|Default">
-  <MonoDevelop.Ide.ItemProperties.NorthwindAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/RegionController.cs">
+  <MonoDevelop.Ide.ItemProperties.NorthwindAPI PreferredExecutionTarget="/Applications/Opera.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
     <Files>
-      <File FileName="Program.cs" Line="16" Column="1" />
-      <File FileName="../BLL/IRepositories/IBaseRepository.cs" />
-      <File FileName="../Helpers/RequestResponse.cs" />
-      <File FileName="../BLL/Repositories/BaseRepository.cs" />
-      <File FileName="appsettings.json" />
-      <File FileName="appsettings.Development.json" />
-      <File FileName="Controllers/RegionController.cs" Line="27" Column="1" />
+      <File FileName="appsettings.json" Line="15" Column="85" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="NorthwindAPI" expanded="True">
-            <Node name="BLL" expanded="True" />
-            <Node name="Helpers" expanded="True" />
             <Node name="NorthwindAPI" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="RegionController.cs" selected="True" />
-              </Node>
-              <Node name="appsettings.json" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
             </Node>
           </Node>
         </State>
@@ -30,9 +19,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Volumes/DATA/GithubRepositories/Northwind-NetCore-API/NorthwindAPI/Controllers/RegionController.cs" relfile="Controllers/RegionController.cs" line="27" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

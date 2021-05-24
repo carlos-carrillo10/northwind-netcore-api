@@ -1,4 +1,4 @@
-﻿using BLL.IRepositories;
+﻿using ApplicationCore.Interfaces.IRepositories;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;

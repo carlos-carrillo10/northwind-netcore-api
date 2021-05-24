@@ -1,4 +1,4 @@
-﻿using BLL.IRepositories;
+﻿using ApplicationCore.Interfaces.IRepositories;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -28,11 +28,11 @@ namespace NorthwindAPI.Controllers
             {
                 return Ok(response.Data);
             }
-            else 
+            else
             {
                 return Ok(response.ErrorMessage);
             }
-           
+
         }
 
         // GET api/<CategoriesController>/5

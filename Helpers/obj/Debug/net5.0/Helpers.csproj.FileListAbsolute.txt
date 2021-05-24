@@ -1,0 +1,10 @@
+D:\GithubRepositories\Northwind-NetCore-API\Helpers\bin\Debug\net5.0\Helpers.deps.json
+D:\GithubRepositories\Northwind-NetCore-API\Helpers\bin\Debug\net5.0\Helpers.dll
+D:\GithubRepositories\Northwind-NetCore-API\Helpers\bin\Debug\net5.0\ref\Helpers.dll
+D:\GithubRepositories\Northwind-NetCore-API\Helpers\bin\Debug\net5.0\Helpers.pdb
+D:\GithubRepositories\Northwind-NetCore-API\Helpers\obj\Debug\net5.0\Helpers.csprojAssemblyReference.cache
+D:\GithubRepositories\Northwind-NetCore-API\Helpers\obj\Debug\net5.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubRepositories\Northwind-NetCore-API\Helpers\obj\Debug\net5.0\Helpers.csproj.CoreCompileInputs.cache
+D:\GithubRepositories\Northwind-NetCore-API\Helpers\obj\Debug\net5.0\Helpers.dll
+D:\GithubRepositories\Northwind-NetCore-API\Helpers\obj\Debug\net5.0\ref\Helpers.dll
+D:\GithubRepositories\Northwind-NetCore-API\Helpers\obj\Debug\net5.0\Helpers.pdb

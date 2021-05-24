@@ -1,4 +1,4 @@
-﻿using BLL.IRepositories;
+﻿using ApplicationCore.Interfaces.IRepositories;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -24,7 +24,7 @@ namespace NorthwindAPI.Controllers
         public async Task<IActionResult> Get()
         {
             var a = _regionRepository.GetByID(1);
-            return Ok(new {a="abc" });
+            return Ok(new { a = "abc" });
         }
 
         // GET api/<RegionController>/5
