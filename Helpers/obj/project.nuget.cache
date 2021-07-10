@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WraAK9jnZ3ntVcMornhUG9A+GyqyQOAVqJVx5D60/uSyjKn2gsxJitZa6AIGEkE4VuWEFtrvKPIGMHHANvk8NA==",
+  "dgSpecHash": "oi8Aapvlas5R/c1R68Jp8/GGjhiHXKtBKJLzmGQ1XK5Uy2atZceFzU8XhXySkxdXmj4HZiyTJ4acCxZCAX1Prw==",
   "success": true,
-  "projectFilePath": "D:\\GithubRepositories\\Northwind-NetCore-API\\Helpers\\Helpers.csproj",
+  "projectFilePath": "D:\\GithubRepositories\\northwind-netcore-api\\Helpers\\Helpers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

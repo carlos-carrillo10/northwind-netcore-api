@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SfCaYF7v2hvbHLbKXBGEUmy6aQcAZzLywY/3YyREMd3ANlutR9hz+ZzGNP8NoKWl2Mrxm/Haf+NZCBQMNzMO8A==",
+  "dgSpecHash": "S3V7rxo+MojrHS7dCJ1EqixIWl+0Z+8GlSOZ0hy7SBT883rUpnpAeXI161cjgjUe93ZaZVASkrZ2JWoDDxvXAw==",
   "success": true,
-  "projectFilePath": "D:\\GithubRepositories\\Northwind-NetCore-API\\Infraestructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\GithubRepositories\\northwind-netcore-api\\Infraestructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carlos Carrillo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Carlos Carrillo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.6\\microsoft.aspnetcore.cryptography.internal.5.0.6.nupkg.sha512",
