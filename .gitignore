@@ -76,3 +76,5 @@ NorthwindAPI/obj/NorthwindAPI.csproj.nuget.dgspec.json
 NorthwindAPI/obj/NorthwindAPI.csproj.nuget.g.props
 NorthwindAPI/obj/project.assets.json
 NorthwindAPI/obj/project.nuget.cache
+Helpers/obj/Debug/net5.0/Helpers.csproj.FileListAbsolute.txt
+NorthwindAPI/.vs/NorthwindAPI/v16/.suo
