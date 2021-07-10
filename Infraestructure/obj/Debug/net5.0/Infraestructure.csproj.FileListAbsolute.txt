@@ -1,5 +1,0 @@
-D:\GithubRepositories\Northwind-NetCore-API\Infraestructure\obj\Debug\net5.0\Infraestructure.csprojAssemblyReference.cache
-D:\GithubRepositories\Northwind-NetCore-API\Infraestructure\obj\Debug\net5.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
-D:\GithubRepositories\Northwind-NetCore-API\Infraestructure\obj\Debug\net5.0\Infraestructure.AssemblyInfoInputs.cache
-D:\GithubRepositories\Northwind-NetCore-API\Infraestructure\obj\Debug\net5.0\Infraestructure.AssemblyInfo.cs
-D:\GithubRepositories\Northwind-NetCore-API\Infraestructure\obj\Debug\net5.0\Infraestructure.csproj.CoreCompileInputs.cache
