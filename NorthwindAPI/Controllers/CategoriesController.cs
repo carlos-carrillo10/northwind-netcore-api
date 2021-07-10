@@ -23,15 +23,17 @@ namespace NorthwindAPI.Controllers
         [HttpGet]
         public async Task<IActionResult> Get()
         {
-            var response = _categoriesRepository.GetByID(1);
-            if (response.Success)
-            {
-                return Ok(response.Data);
-            }
-            else
-            {
-                return Ok(response.ErrorMessage);
-            }
+            //var response = _categoriesRepository.GetByID(1);
+            //if (response.Success)
+            //{
+            //    return Ok(response.Data);
+            //}
+            //else
+            //{
+            //    return Ok(response.ErrorMessage);
+            //}
+
+            return Ok();
 
         }
 

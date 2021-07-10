@@ -1,4 +1,8 @@
-﻿using ApplicationCore.Interfaces.IRepositories;
+﻿using ApplicationCore.Entities;
+using ApplicationCore.Interfaces.IRepositories;
+using ApplicationCore.Models;
+using ApplicationCore.Models.Response;
+using ApplicationCore.Models.Response.ResponseModels;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -13,44 +17,88 @@ namespace NorthwindAPI.Controllers
     [ApiController]
     public class EmployeesController : ControllerBase
     {
+        #region Properties
 
         private readonly IEmployeesRepository _employeesRepository;
+
+        #endregion
+
         public EmployeesController(IEmployeesRepository employeesRepository)
         {
             _employeesRepository = employeesRepository;
         }
 
+        #region GET
+
         // GET: api/<EmployeesController>
         [HttpGet]
-        public async Task<IActionResult> Get()
+        public async Task<IActionResult> Get(int page, int length)
         {
-            var response = _employeesRepository.GetByID(1);
-            return Ok(response.Data);
+            var result = await _employeesRepository.GetPagingResultAsync(page, length, select: x => x,
+                sortModels: new List<SortModel<Employees>>
+                {
+                    new SortModel<Employees>
+                    {
+                        SortExpression = w =>w.EmployeeID,
+                        SortDirection = SortDirection.Asc
+                    }
+                },
+               includes: new string[] { });
+
+
+            var employees = new PaginationResponse<EmployeesResponseModel>
+            {
+                HasMore = result.HasMore,
+                QuantityPages = result.QuantityPages,
+                QuantityPagesFiltered = result.QuantityPagesFiltered,
+                Total = result.Total,
+                TotalFiltered = result.TotalFiltered,
+                Result = result.Result.Select(x => new EmployeesResponseModel(x))
+            };
+
+            return Ok(new BaseResponse<PaginationResponse<EmployeesResponseModel>>(success: true, employees).ToJson());
         }
 
         // GET api/<EmployeesController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public async Task<IActionResult> Get(int id)
         {
-            return "value";
+            return Forbid();
         }
+
+        #endregion
+
+        #region POST
 
         // POST api/<EmployeesController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public async Task<IActionResult> Post([FromBody] string value)
         {
+            return Forbid();
         }
+
+        #endregion
+
+        #region PUT
 
         // PUT api/<EmployeesController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public async Task<IActionResult> Put(int id, [FromBody] string value)
         {
+            return Forbid();
         }
+
+        #endregion
+
+        #region DELETE
 
         // DELETE api/<EmployeesController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public async Task<IActionResult> Delete(int id)
         {
+            return Forbid();
         }
+
+        #endregion
     }
 }

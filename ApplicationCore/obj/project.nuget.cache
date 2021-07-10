@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Rzoig2wniX9Wy+JT9N1tzwXQCGsHMXZn+610Vf64kESBiydBhd0E6KjfCGlJR04BvqQ1dvgx09wrGx+1N+13tA==",
+  "dgSpecHash": "g/MKlZFSmk7rZSNoR1XguPTNsOpfugXYDRh5/lKi2Cz2BGg2lwqxvx0I1T8d56QedEEX2ghQuooLNhK9IFDYFw==",
   "success": true,
   "projectFilePath": "D:\\GithubRepositories\\northwind-netcore-api\\ApplicationCore\\ApplicationCore.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "C:\\Users\\Carlos Carrillo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Carlos Carrillo\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\Carlos Carrillo\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Carlos Carrillo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Carlos Carrillo\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\Carlos Carrillo\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\Carlos Carrillo\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"

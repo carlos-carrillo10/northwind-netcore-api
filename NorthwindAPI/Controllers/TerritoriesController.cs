@@ -23,8 +23,9 @@ namespace NorthwindAPI.Controllers
         [HttpGet]
         public async Task<IActionResult> Get()
         {
-            var response = _territoriesRepository.GetByID("01581");
-            return Ok(response.Data);
+            //var response = _territoriesRepository.GetByID("01581");
+            //return Ok(response.Data);
+            return Ok();
         }
 
         // GET api/<TerritoriesController>/5
