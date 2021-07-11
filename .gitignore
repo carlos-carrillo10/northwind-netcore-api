@@ -381,3 +381,5 @@ NorthwindAPI/obj/NorthwindAPI.csproj.nuget.g.targets
 NorthwindAPI/obj/project.assets.json
 NorthwindAPI/obj/project.nuget.cache
 NorthwindAPI/.vs/NorthwindAPI/xs/UserPrefs.xml
+NorthwindAPI/.vs/NorthwindAPI/xs/project-cache/ApplicationCore-Debug.json
+NorthwindAPI/.vs/NorthwindAPI/xs/project-cache/NorthwindAPI-Debug.json
